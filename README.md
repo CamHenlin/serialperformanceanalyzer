@@ -1,6 +1,6 @@
 # serialperformanceanalyzer
 
-Very much a WIP but is useful if you are trying to add performance analysis to a Retro68 application on a classic Macintosh or emulator, where running gdb and some sort of better analysis might be an option. Otherwise you end up doing this in C code on the machine which can cumbersome to print out an analyze
+Very much a WIP but is useful if you are trying to add performance analysis to a Retro68 application on a classic Macintosh or emulator, where running gdb and some sort of better analysis might be an option. Otherwise you end up doing this in C code on the machine which can cumbersome to print out an analyze. More in depth instructions on how this library can be used are available [here](https://henlin.net/2021/12/21/Profiling-your-Retro68-application/)
 
 Options:
 - Can be run tailing a flat file by specifiying `process.env.FILE_PATH`
